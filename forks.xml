@@ -37,9 +37,6 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
-  <remove-project name="android_vendor_google_pixel" />
-  <project path="vendor/google/pixel" name="pa-gk/android_vendor_google_pixel" remote="gitlab" revision="topaz" />
-
   <remove-project name="AOSPA/android_device_qcom_common" />
   <project path="device/qcom/common" name="AOSPA-Plus/android_device_qcom_common" remote="github" revision="uvite" >
     <linkfile dest="vendor/qcom/build/tasks/generate_extra_images.mk" src="generate_extra_images.mk"/>
