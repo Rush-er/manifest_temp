@@ -60,4 +60,6 @@
   <project path="packages/apps/AospaPlusXtras" name="AOSPA-Plus/packages_apps_AospaPlusXtras" remote="github" revision="uvite" />
 
   <project path="vendor/support" name="AOSPA-Plus/vendor_support" remote="github" revision="uvite" />
+
+  <project path="packages/apps/Gamespace" name="AOSPA-Plus/packages_apps_Gamespace" remote="github" revision="uvite" />
 </manifest>
