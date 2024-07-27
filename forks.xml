@@ -57,4 +57,5 @@
 <remove-project name="AOSPA/android_bootable_recovery" />
   <project path="bootable/recovery" name="AOSPA-Plus/android_bootable_recovery" remote="github" revision="uvite" />
 
+  <project path="packages/apps/AospaPlusXtras" name="AOSPA-Plus/packages_apps_AospaPlusXtras" remote="github" revision="uvite" />
 </manifest>
