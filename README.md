@@ -41,7 +41,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init --depth=1 -u https://github.com/AOSPA-Plus/manifest -b vauxite
+$ repo init --depth=1 -u https://github.com/AOSPA-Plus/manifest -b victoria
 ```
 
 ### Downloading the source tree ###
