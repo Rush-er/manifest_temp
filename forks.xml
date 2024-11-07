@@ -4,10 +4,10 @@
   <remove-project name="AOSPA/android_frameworks_base" />
   <project path="frameworks/base" name="AOSPA-Plus/android_frameworks_base" remote="github" revision="victoria" />
 
-  <remove-project name="AOSPA/android_packages_apps_Settings" />
+  <remove-project name="platform/packages/apps/Settings" />
   <project path="packages/apps/Settings" name="AOSPA-Plus/android_packages_apps_Settings" remote="github" revision="victoria" />
 
-  <remove-project name="AOSPA/android_packages_apps_Launcher3" />
+  <remove-project name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/Launcher3" name="AOSPA-Plus/android_packages_apps_Launcher3" remote="github" revision="victoria" />
 
   <remove-project name="AOSPA/android_system_core" />
@@ -45,16 +45,15 @@
   <remove-project name="AOSPA/android_frameworks_av" />
   <project path="frameworks/av" name="AOSPA-Plus/android_frameworks_av" remote="github" revision="victoria" />
 
-<remove-project name="AOSPA/android_packages_modules_Connectivity" />
+  <remove-project name="platform/packages/modules/Connectivity" />
   <project path="packages/modules/Connectivity" name="AOSPA-Plus/android_packages_modules_Connectivity" remote="github" revision="victoria" />
 
-<remove-project name="AOSPA/android_packages_services_Telecomm" />
+  <remove-project name="platform/packages/services/Telecomm" />
   <project path="packages/services/Telecomm" name="AOSPA-Plus/android_packages_services_Telecomm" remote="github" revision="victoria" />
 
-<remove-project name="AOSPA/android_packages_apps_Paranoid_SystemUI" />
   <project path="packages/apps/Paranoid/SystemUI" name="AOSPA-Plus/android_packages_apps_Paranoid_SystemUI" remote="github" revision="victoria" />
 
-<remove-project name="AOSPA/android_bootable_recovery" />
+  <remove-project name="AOSPA/android_bootable_recovery" />
   <project path="bootable/recovery" name="AOSPA-Plus/android_bootable_recovery" remote="github" revision="victoria" />
 
   <project path="packages/apps/AospaPlusXtras" name="AOSPA-Plus/packages_apps_AospaPlusXtras" remote="github" revision="victoria" />
